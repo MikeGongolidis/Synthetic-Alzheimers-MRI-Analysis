@@ -1,4 +1,5 @@
-<img style="float: right;" src="assets/shd.png">
+<img style="float: right;" src="assets/shd.png">  
+
 # Analysis on Synthetic Alzheimers MRIs   
 ### For the Biolib Synthetic Health Data hackathon 2020  
 
